@@ -1,2 +1,2 @@
 # Test-PR-board
-Tester la partie pull request 
+Tester la partie pull request.
