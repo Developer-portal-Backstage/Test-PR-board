@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: test-pr-board-public
   annotations:
-    github.com/project-slug: Developer-portal-Backstage/nom-du-repo
+    github.com/project-slug: Developer-portal-Backstage/Test-PR-board
 spec:
   type: service
   owner: group:default/frontend
